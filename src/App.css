@@ -1,0 +1,17 @@
+.box{
+  display: flex;
+  
+}
+.full{
+  background-color:  #cce4ff; 
+}
+.part{
+  background-color: #ff3333;
+}
+.kids{
+  background-color: #00ace6;
+}
+.summer{
+  background-color: #004b66;
+
+}
